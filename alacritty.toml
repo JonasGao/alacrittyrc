@@ -4,6 +4,7 @@ padding = { x = 3, y = 5 }
 blur = true
 opacity = 0.9
 dynamic_padding = true
+resize_increments = true
 [font]
 normal = { family = "Agave Nerd Font" }
 size = 11
