@@ -1,8 +1,8 @@
 shell = "C:/Program Files/PowerShell/7/pwsh.exe"
 [window]
 padding = { x = 3, y = 5 }
-blur = true
-opacity = 0.9
+# blur = true
+# opacity = 0.9
 dynamic_padding = true
 resize_increments = true
 [font]
