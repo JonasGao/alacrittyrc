@@ -6,6 +6,10 @@ padding = { x = 3, y = 5 }
 dynamic_padding = true
 resize_increments = true
 [font]
-# normal = { family = "Agave Nerd Font" }
-normal = { family = "FantasqueSansM Nerd Font" }
+normal = { family = "Agave Nerd Font" }
+#normal = { family = "FantasqueSansM Nerd Font" }
 size = 11
+[keyboard]
+bindings = [
+{ key = "N",  mods = "Control|Shift", action = "SpawnNewInstance" }
+]
